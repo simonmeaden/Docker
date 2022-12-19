@@ -32,10 +32,10 @@ class WidgetItem;
  * \ingroup docker
  * \class DockWidget dockwidget.h "docker/dockwidget.h"
  * \brief The DockWidget defines an QWidget that emulates the QtCreator
- *        QDockeWidget, sort of.
+ *        QDockWidget, sort of.
  *
- * It allows up to four toolbars at the est, West, North and South positions
- * plus a single header and a single footer. Various widgets can be added to
+ * It allows up to four toolbars at the East, West, North and South positions
+ * plus a single header and/or a single footer. Various widgets can be added to
  * the toolbars and footers.
  */
 class DockWidgetPrivate;
